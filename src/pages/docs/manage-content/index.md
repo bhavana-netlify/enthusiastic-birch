@@ -1,11 +1,11 @@
 ---
 title: Manage Content
-excerpt: >-
-  In this section you'll learn how to add syntax highlighting, examples,
-  callouts and much more.
+excerpt: In this Section you'll learn how to add syntax highlighting, examples, callouts
+  and much more.
 template: docs
----
+weight: 
 
+---
 <div class="note">
   <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
